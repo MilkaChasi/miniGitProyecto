@@ -1,2 +1,2 @@
-# practicaCodeMilka
-Ejercicios asignados para practicar en casa
+# Mini Git Proyecto
+## Este proyecto es una practica de Git.git git
