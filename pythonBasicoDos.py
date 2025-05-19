@@ -5,7 +5,7 @@
 contraseña_recibida = input("Ingresa una contraseña que tu creas que es la correcta: ")
 contraseña_esperada = "contra1235"
 
-if(contraseña_recibida == contraseña_esperada):
+if contraseña_recibida == contraseña_esperada:
     print("La contraseña ingresada es la correcta. ¡FELICITACIONES!")
 else:
     print("La contraseña imgresa es incorrecta. Vuelve a intentar")
