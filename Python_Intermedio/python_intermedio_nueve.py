@@ -3,6 +3,8 @@
 alumnos = {"Pedro": "Zambrano", "Kamila": "Lopez", "Lorena": "Moran", "Norma": "Perez"}
 alumnos.pop("Kamila")
 
+print("Kamila" in alumnos)
+
 for alumno in alumnos.keys():
     print(alumno)
 
